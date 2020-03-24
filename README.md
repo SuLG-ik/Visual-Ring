@@ -33,9 +33,9 @@
 
 #### Схемы
     - Автономная индикационная система
-[![N|Solid](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_strip.png?raw=true)](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_strip.png)
+![SCHEME](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_led.png)
     - Встроенная индикационная система
-[![N|Solid](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_led.png?raw=true)](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_led.png)
+![SCHEME](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_led.png)
 		
 #### Выбор типа
 ```sh
