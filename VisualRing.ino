@@ -1,22 +1,23 @@
+//Изменяемые настройки
+
 #define DEBUG false //TRUE - включить
 
 #define IS_LED_STRIP true   //true - используетс лента, false - лампа
 
-#define MATRIX_PIN 13    //Пин ленты
 
-#define FADE_TIME 60    //Бета
 
 #define MATRIX_WIDTH 3      //Высота
 #define MATRIX_HEIGHT 14    //Ширина
 
+#define RADIUS 10           //Рабиус
 
-#define RADIUS 10 
-#define ENVOLVED_MIMIMUM 35
+\
 
 //ищзменяемые настройки
 
 //Не изменять 
-
+#define MATRIX_PIN 13    //Пин ленты
+#define ENVOLVED_MIMIMUM 35
 #define ZERO 0    // Нулевая константа
 
 #define ms() (long)millis()   //внутреннее время
