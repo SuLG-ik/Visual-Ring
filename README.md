@@ -27,15 +27,17 @@
   - Собрать самим
   - Заказать у нас
   
+<a id="chapter-0"></a>
+
 ## Настройка
 
-### Схемы
+#### Схемы
     - Автономная индикационная система
-        [![N|Solid]()]()
+        [![N|Solid](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_strip.png?raw=true)](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_strip.png)
     - Встроенная индикационная система
-        [![N|Solid]()]()
+        [![N|Solid](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_led.png?raw=true)](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_led.png)
 		
-### Выбор типа
+#### Выбор типа
 ```sh
 #define IS_LED_STRIP true   //true - используетс лента, false - лампа
 ```
