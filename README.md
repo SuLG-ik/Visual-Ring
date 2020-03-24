@@ -32,9 +32,9 @@
 ## Настройка
 
 #### Схемы
-    - Автономная индикационная система
+##### Автономная индикационная система
 ![SCHEME](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_led.png)
-    - Встроенная индикационная система
+##### Встроенная индикационная система
 ![SCHEME](https://github.com/SuLG-ik/Visual-Ring/blob/master/schemes/visual_ring_led.png)
 		
 #### Выбор типа
